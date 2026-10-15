@@ -1,1 +1,1 @@
-# j-zyki_programowania
+# jezyki_programowania
